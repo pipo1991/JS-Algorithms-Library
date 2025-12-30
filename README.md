@@ -1,4 +1,4 @@
-# brew install gh
+# JS Algorithms Library
 
 A small JavaScript library of algorithms and data structures, organized by domain.
 
